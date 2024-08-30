@@ -1,0 +1,720 @@
+.landing-page-child {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 720px);
+  	background: linear-gradient(109.14deg, #4d4d4d, #b3b3b3);
+  	width: 1440px;
+  	height: 846px;
+}
+.our-services {
+  	position: relative;
+  	text-shadow: 0px 15px 10px rgba(0, 0, 0, 0.25);
+}
+.nadine-is-here {
+  	position: relative;
+  	font-size: 24px;
+  	font-weight: 600;
+}
+.our-services-parent {
+  	position: absolute;
+  	top: 950px;
+  	left: calc(50% - 223.5px);
+  	height: 117px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 15px;
+  	font-size: 64px;
+  	color: #000;
+}
+.helping-you-find {
+  	width: 913px;
+  	position: relative;
+  	display: inline-block;
+}
+.nadine-is-here-container {
+  	width: 566px;
+  	position: relative;
+  	font-size: 24px;
+  	display: inline-block;
+}
+.helping-you-find-your-dream-ho-parent {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 30px;
+}
+.find-a-home {
+  	position: relative;
+}
+.find-a-home-now-wrapper {
+  	border-radius: 10px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 30px 40px;
+  	font-size: 32px;
+  	color: #000;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 147.02px;
+  	left: 130px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 35px;
+  	font-size: 96px;
+}
+.modern-house-png-clipart-1-1 {
+  	position: absolute;
+  	top: 344px;
+  	right: -6px;
+  	width: 652px;
+  	height: 502px;
+  	object-fit: cover;
+}
+.frame-child {
+  	width: 350px;
+  	position: relative;
+  	border-radius: 15px;
+  	background-color: #bebebe;
+  	height: 300px;
+  	z-index: 0;
+}
+.r-1-1 {
+  	width: 70px;
+  	position: relative;
+  	height: 70px;
+  	object-fit: cover;
+}
+.new-property {
+  	position: relative;
+  	font-weight: 500;
+}
+.nadine-is-now {
+  	width: 259.7px;
+  	position: relative;
+  	font-size: 14px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+}
+.r-1-1-parent {
+  	margin: 0 !important;
+  	position: absolute;
+  	top: 50.65px;
+  	left: 45.17px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 32px;
+  	z-index: 1;
+}
+.rectangle-parent {
+  	border-radius: 15px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	position: relative;
+  	gap: 10px;
+}
+.frame-group {
+  	position: absolute;
+  	top: 1130.87px;
+  	left: 130px;
+  	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 65px;
+  	font-size: 24px;
+  	color: #000;
+}
+.home-features {
+  	position: relative;
+  	font-weight: 600;
+  	text-shadow: 0px 15px 10px rgba(0, 0, 0, 0.25);
+}
+.home-features-wrapper {
+  	border-radius: 10px;
+  	background-color: #000;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 20px 30px;
+  	font-size: 32px;
+  	color: #fff;
+}
+.home-features-parent {
+  	position: absolute;
+  	top: 1673.84px;
+  	left: 127.69px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 355px;
+  	font-size: 64px;
+  	color: #000;
+}
+.maximize-seating-1-1-icon {
+  	position: absolute;
+  	top: 1881.16px;
+  	left: 210px;
+  	width: 300px;
+  	height: 500px;
+  	object-fit: cover;
+}
+.maximize-seating-1-2-icon {
+  	position: absolute;
+  	top: 1881.16px;
+  	left: 610px;
+  	width: 300px;
+  	height: 500px;
+  	object-fit: cover;
+}
+.maximize-seating-1-3-icon {
+  	position: absolute;
+  	top: 1881.16px;
+  	left: 1010px;
+  	width: 300px;
+  	height: 500px;
+  	object-fit: cover;
+}
+.landing-page-item {
+  	position: absolute;
+  	top: 41.49px;
+  	left: 130px;
+  	background-color: rgba(0, 0, 0, 0.5);
+  	width: 1180px;
+  	height: 80px;
+}
+.nadine {
+  	position: absolute;
+  	top: 67.99px;
+  	left: 165px;
+  	font-size: 24px;
+  	font-family: Aclonica;
+}
+.screenshot-2023-09-09-103423-1 {
+  	position: absolute;
+  	top: 52.39px;
+  	left: 276px;
+  	width: 70px;
+  	height: 58.2px;
+  	object-fit: cover;
+}
+.services {
+  	position: absolute;
+  	top: 69.99px;
+  	left: 401px;
+  	font-family: Arial;
+}
+.news {
+  	position: absolute;
+  	top: 69.99px;
+  	left: 518px;
+  	font-family: Arial;
+}
+.contacts {
+  	position: absolute;
+  	top: 69.99px;
+  	left: 609px;
+  	font-family: Arial;
+}
+.features {
+  	position: absolute;
+  	top: 69.99px;
+  	left: 728px;
+  	font-family: Arial;
+}
+.about {
+  	position: absolute;
+  	top: 69.99px;
+  	left: 847px;
+  	font-family: Arial;
+}
+.login {
+  	position: absolute;
+  	top: 69.99px;
+  	left: 1020px;
+  	font-family: Arial;
+}
+.create-account-wrapper {
+  	position: absolute;
+  	top: 54.99px;
+  	left: 1099px;
+  	border-radius: 15px;
+  	border: 1px solid #fff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 15px 20px;
+  	font-family: Arial;
+}
+.houses-landscape-design-night-icon {
+  	position: absolute;
+  	top: -6.24px;
+  	left: calc(50% - 720px);
+  	width: 1461.3px;
+  	height: 490.6px;
+  	object-fit: cover;
+}
+.mission {
+  	align-self: stretch;
+  	position: relative;
+}
+.lorem-ipsum-dolor {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	font-weight: 500;
+}
+.mission-parent {
+  	position: absolute;
+  	top: 20.16px;
+  	left: 20.66px;
+  	width: 405.7px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.frame-wrapper {
+  	width: 447px;
+  	position: relative;
+  	box-shadow: 0px 4px 15px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 15px;
+  	background-color: #fff;
+  	height: 211px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.frame-container {
+  	position: absolute;
+  	top: 328.84px;
+  	left: calc(50% - 465px);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 36px;
+}
+.the-company-parent {
+  	position: absolute;
+  	top: 20px;
+  	left: 21px;
+  	width: 884px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.about-us-inner {
+  	position: absolute;
+  	top: 558px;
+  	left: 255px;
+  	box-shadow: 0px 4px 15px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 15px;
+  	background-color: #fff;
+  	width: 930px;
+  	height: 211px;
+  	overflow: hidden;
+}
+.about-us1 {
+  	position: absolute;
+  	top: 134.12px;
+  	left: calc(50% - 290px);
+  	font-size: 128px;
+  	color: #fff;
+}
+.about-us {
+  	position: absolute;
+  	top: 4203px;
+  	left: calc(50% - 720px);
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 1024px;
+  	overflow: hidden;
+  	font-size: 32px;
+  	color: #000;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #cdcdcd;
+  	border: 3px solid #cdcdcd;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 221.6px;
+}
+.architecture-family-house-fron-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 208px;
+  	height: 148.6px;
+  	object-fit: cover;
+}
+.idr500000000 {
+  	position: relative;
+  	font-size: 19.02px;
+  	font-weight: 600;
+}
+.rent {
+  	position: relative;
+  	color: #ca0000;
+}
+.idr500000000-parent {
+  	position: absolute;
+  	top: 153.62px;
+  	left: 0px;
+  	border: 3px solid #cdcdcd;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 8.9px;
+  	gap: 4.8px;
+}
+.group-div {
+  	width: 208px;
+  	position: relative;
+  	height: 221.6px;
+}
+.group-parent {
+  	align-self: stretch;
+  	filter: drop-shadow(0px 15px 15px rgba(0, 0, 0, 0.25));
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 35px;
+}
+.frame-parent1 {
+  	position: absolute;
+  	top: 174.63px;
+  	left: 130px;
+  	width: 1179.9px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 38px;
+}
+.news2 {
+  	position: absolute;
+  	top: 40px;
+  	left: calc(50% - 102px);
+  	font-size: 75px;
+  	font-weight: 600;
+  	text-shadow: 0px 15px 10px rgba(0, 0, 0, 0.25);
+}
+.news1 {
+  	position: absolute;
+  	top: 2461px;
+  	left: calc(50% - 720px);
+  	background-color: #8c8c8c;
+  	width: 1440px;
+  	height: 762px;
+  	overflow: hidden;
+  	font-size: 11.88px;
+  	color: #000;
+}
+.contact-us-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	object-fit: cover;
+}
+.contact-us-item {
+  	position: absolute;
+  	height: 100%;
+  	width: 54.69%;
+  	top: 0%;
+  	right: 45.31%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: #fff;
+}
+.contact-us-inner {
+  	position: absolute;
+  	height: 36.01%;
+  	width: 28.27%;
+  	top: 63.99%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 71.73%;
+  	background-color: #ff5501;
+}
+.contact-us-child1 {
+  	position: absolute;
+  	height: 83.92%;
+  	width: 90.2%;
+  	top: 8.04%;
+  	right: 4.9%;
+  	bottom: 8.04%;
+  	left: 4.9%;
+  	border: 2px solid #b7410e;
+  	box-sizing: border-box;
+}
+.contact-us-child2 {
+  	position: absolute;
+  	height: 15.91%;
+  	width: 36.73%;
+  	top: 2.18%;
+  	right: 51.73%;
+  	bottom: 81.91%;
+  	left: 11.53%;
+  	background-color: #fff;
+}
+.contact-us1 {
+  	position: absolute;
+  	top: 3.52%;
+  	left: 12.55%;
+  	font-size: 50px;
+  	font-weight: 600;
+  	color: #000;
+  	text-shadow: 0px 10px 10px rgba(0, 0, 0, 0.25);
+}
+.contact-us-child3 {
+  	position: absolute;
+  	height: 11.89%;
+  	width: 34.49%;
+  	top: 25.13%;
+  	right: 52.96%;
+  	bottom: 62.98%;
+  	left: 12.55%;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+}
+.contact-us-child4 {
+  	position: absolute;
+  	height: 11.89%;
+  	width: 34.49%;
+  	top: 41.37%;
+  	right: 52.96%;
+  	bottom: 46.73%;
+  	left: 12.55%;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+}
+.contact-us-child5 {
+  	position: absolute;
+  	height: 11.89%;
+  	width: 34.49%;
+  	top: 59.3%;
+  	right: 52.96%;
+  	bottom: 28.81%;
+  	left: 12.55%;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+}
+.phone-no {
+  	position: absolute;
+  	top: 28.64%;
+  	left: 15.82%;
+  	font-weight: 300;
+  	color: #000;
+}
+.e-mail {
+  	position: absolute;
+  	top: 44.89%;
+  	left: 15.82%;
+  	font-weight: 300;
+  	color: #000;
+}
+.location-of-company {
+  	position: absolute;
+  	top: 62.81%;
+  	left: 15.92%;
+  	font-weight: 300;
+  	color: #000;
+}
+.contact-us-child6 {
+  	position: absolute;
+  	height: 6.2%;
+  	width: 8.37%;
+  	top: 68.84%;
+  	right: 48.78%;
+  	bottom: 24.96%;
+  	left: 42.86%;
+  	background-color: #ff5501;
+}
+.send {
+  	position: absolute;
+  	top: 70.02%;
+  	left: 44.49%;
+  	font-weight: 300;
+}
+.vector-icon {
+  	position: absolute;
+  	height: 7.71%;
+  	width: 3.88%;
+  	top: 44.22%;
+  	right: 17.86%;
+  	bottom: 48.07%;
+  	left: 78.27%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.address {
+  	position: absolute;
+  	top: 68.51%;
+  	left: 75.51%;
+  	font-size: 25px;
+  	font-weight: 300;
+}
+.nadine1 {
+  	position: absolute;
+  	top: 75.21%;
+  	left: 75.51%;
+  	font-size: 15px;
+  	font-weight: 300;
+}
+.jl-batubara-no {
+  	position: absolute;
+  	top: 79.9%;
+  	left: 75.51%;
+  	font-size: 15px;
+  	font-weight: 300;
+}
+.div {
+  	position: absolute;
+  	top: 83.75%;
+  	left: 75.51%;
+  	font-size: 15px;
+  	font-weight: 300;
+}
+.contact-us-child7 {
+  	position: absolute;
+  	height: 2.01%;
+  	width: 5.61%;
+  	top: 35.34%;
+  	right: 22.35%;
+  	bottom: 62.65%;
+  	left: 72.04%;
+  	background-color: #f8f9fa;
+}
+.contact-us {
+  	position: absolute;
+  	top: 160px;
+  	left: 230px;
+  	width: 980px;
+  	height: 597px;
+}
+.contact1 {
+  	position: absolute;
+  	top: 19px;
+  	left: calc(50% - 126px);
+  	font-size: 64px;
+  	color: #000;
+  	text-shadow: 0px 15px 10px rgba(0, 0, 0, 0.25);
+}
+.contact {
+  	position: absolute;
+  	top: 3277.16px;
+  	left: calc(50% - 720px);
+  	width: 1440px;
+  	height: 1024px;
+  	overflow: hidden;
+}
+.screenshot-2023-09-09-103423-11 {
+  	width: 70px;
+  	position: relative;
+  	height: 58.2px;
+  	object-fit: cover;
+}
+.screenshot-2023-09-09-103423-1-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 10px;
+  	font-size: 24px;
+  	font-family: Aclonica;
+}
+.social-media {
+  	position: relative;
+  	font-weight: 600;
+}
+.facebook-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 31px;
+  	font-size: 16px;
+}
+.social-media-parent {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 24px;
+}
+.home-parent {
+  	width: 434px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	flex-wrap: wrap;
+  	align-content: center;
+  	gap: 0px 55px;
+}
+.frame-parent2 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 150px;
+}
+.landing-page-inner {
+  	position: absolute;
+  	bottom: -0.01px;
+  	left: calc(50% - 720px);
+  	background-color: #000;
+  	width: 1440px;
+  	height: 231.1px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 73px 147px;
+  	box-sizing: border-box;
+}
+.landing-page {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 5283px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
